@@ -1,10 +1,26 @@
-<h2>Curriculum Vitae</h2>
-<table><tr><td></td><td>
-<h1>Natalya Golts</h1></td>
-</tr><tr><td>
-<p>Moscow, Russia</p>
-<p>Date of birth: 20.09.1993</p>
-<p>Phone number: +79250554216</p>
-<p>E-mail: goltz-natalja@yandex.ru</p>
-</td>
-  <td><h2>Junior frontend-developer</h2></td>
+## Curriculum Vitae
+---------
+# Natalya Golts
+![my pic](https://github.com/NataljaGoltz/rsschool-cv/blob/gh-pages/myphoto.jpg)
+##### Moscow, Russia
+##### Date of birth: 20.09.1993
+##### Phone number: +79250554216
+##### E-mail: goltz-natalja@yandex.ru
+---------
+
+##### Proffesional profile:
+- Junior frontend-developer
+- Content manager
+- Support services technician
+- Account manager
+
+##### Professional expierence:
+---------
+May 2022 - now
+
+__PBF Service__
+
+__Support specialist__
+* incoming calls processing
+* consultating costumers
+* solving technical issues 
